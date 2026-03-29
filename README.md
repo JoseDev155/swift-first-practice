@@ -1,4 +1,4 @@
-# PRÁCTICA 1 - DAM2
+# PRÁCTICA 1
 Repositorio de apps hechas en Swift.
 
 ## Estructura del repositorio
