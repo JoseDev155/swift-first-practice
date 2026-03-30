@@ -1,4 +1,4 @@
-# PRÁCTICA 1
+# PRÁCTICAS 1 y 2
 Repositorio de apps hechas en Swift.
 
 ## Estructura del repositorio
